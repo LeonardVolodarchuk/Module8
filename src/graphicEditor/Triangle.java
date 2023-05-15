@@ -1,3 +1,5 @@
+package graphicEditor;
+
 public class Triangle extends Shape{
     private double a;
     private double b;
@@ -12,7 +14,7 @@ public class Triangle extends Shape{
 
     @Override
     public String getName() {
-        return "Triangle";
+        return "graphicEditor.Triangle";
     }
 
     @Override

@@ -1,3 +1,5 @@
+package graphicEditor;
+
 public class Quad extends Shape{
     private double length;
     private double width;
@@ -10,7 +12,7 @@ public class Quad extends Shape{
 
     @Override
     public String getName() {
-        return "Quad";
+        return "graphicEditor.Quad";
     }
 
     @Override

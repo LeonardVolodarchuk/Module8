@@ -1,3 +1,5 @@
+package graphicEditor;
+
 public class Square extends Shape{
     private double side;
 
@@ -11,6 +13,6 @@ public class Square extends Shape{
 
     @Override
     public String getName() {
-        return "Square";
+        return "graphicEditor.Square";
     }
 }

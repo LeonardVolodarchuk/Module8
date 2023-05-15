@@ -1,3 +1,5 @@
+package graphicEditor;
+
 public class Trapezium extends Shape{
     private double sideA;
     private double sideB;
@@ -14,7 +16,7 @@ public class Trapezium extends Shape{
 
     @Override
     public String getName() {
-        return "Trapezium";
+        return "graphicEditor.Trapezium";
     }
 
     @Override
