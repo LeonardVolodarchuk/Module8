@@ -12,7 +12,7 @@ public class Quad extends Shape{
 
     @Override
     public String getName() {
-        return "graphicEditor.Quad";
+        return "Quad";
     }
 
     @Override

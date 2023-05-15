@@ -14,7 +14,7 @@ public class Circle extends Shape {
 
     @Override
     public String getName() {
-        return "graphicEditor.Circle";
+        return "Circle";
     }
 
     @Override
